@@ -47,4 +47,10 @@ python translate.py
   - dataProcess.py——数据处理文件
   - BLEU.py——评估指标BLEU
   - translate.py——模型加载，训练与预测
-
+  - data
+    - train.txt——处理完的训练集
+    - val.txt——处理完的验证集
+    - zh-en.en——源数据集中的英文文本数据
+    - zh-en.zh——源数据集中的中文文本数据
+  - translations
+    - checkpoint-n——保存的模型数据
