@@ -54,14 +54,14 @@ python translate.py
   - translations
     - checkpoint-n——保存的模型数据
  
- #处理后的数据样例
+ # 处理后的数据样例
  
  ```python
 {'en': 'PARIS – As the economic crisis deepens and widens, the world has been searching for historical analogies to help us understand what has been happening.', 'zh': '巴黎-随着经济危机不断加深和蔓延，整个世界一直在寻找历史上的类似事件希望有助于我们了解目前正在发生的情况。'}
 {'en': 'They set inflation targets at around 2% – leaving little room for maneuver when the water got choppy.', 'zh': '它们将通胀目标设定在2%左右——这意味着当波涛汹涌时他们根本没有多少施展空间。'}
 ```
 
-#模型训练过程日志
+# 模型训练过程日志
 
  ```python
 ***** Running training *****
